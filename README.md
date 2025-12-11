@@ -12,7 +12,7 @@ A comprehensive educational package teaching Propensity Score Matching (PSM) for
 
 ## 📺 Video Tutorial
 
-**🔗 Watch the Tutorial:** [YOUR_VIDEO_LINK_HERE]
+**🔗 Watch the Tutorial:** [https://youtu.be/4yfYS5VX7dE]
 
 Duration: ~10 minutes | Structure: Explain → Show → Try
 
@@ -86,7 +86,7 @@ psm-teaching-project/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/psm-teaching-project.git
+git clone https://github.com/NikshipthNarayan/psm-teaching-project.git
 cd psm-teaching-project
 ```
 
